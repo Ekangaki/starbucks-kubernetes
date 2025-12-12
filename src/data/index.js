@@ -20,36 +20,36 @@ import burger from "../assests/img/burger.png"
 
 
 
-export const HandcraftedCurations = [
+export const NgutiHandcraftedCurations = [
     {
         title: "BestSeller",
         img: BestSeller,
-        link: "BestSeller"
+        link: "NgutiBestSeller"
     },
     {
         title: "Drinks",
         img: drinks,
-        link: "Drinks"
+        link: "NgutiDrinks"
     },
     {
         title: "Food",
         img: food,
-        link: "Food"
+        link: "NgutiFood"
     },
     {
         title: "Merchandise",
         img: merchandise,
-        link: "Merchandise"
+        link: "NgutiMerchandise"
     },
     {
         title: "Coffee At Home",
         img: coffeeAtHome,
-        link: "CoffeeAtHome"
+        link: "NgutiCoffeeAtHome"
     },
     {
         title: "Ready to Eat",
         img: readyToEat,
-        link: "ReadytoEat"
+        link: "NgutiReadytoEat"
     },
 ]
 
@@ -112,8 +112,8 @@ export const PromotionBanner=[{
     img: icecoffee,
     title: " Attention Starbucks Fans! ",
     bg:bg_1,
-    head:"Signature Milkshakes",
-    des:" Satisfy your sweet tooth with our signature milkshakes. Indulge today in these coffee-free versions. ",
+    head:"NgutiSignature Milkshakes",
+    des:" Satisfy your sweet tooth with our Nguti signature milkshakes. Indulge today in these coffee-free versions. ",
     price: "330",
     paise:"00",
     b_content:"Order Now"
